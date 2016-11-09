@@ -1,5 +1,5 @@
 # CliServ_simply
-Client and server written in.
+Client and server written in C.
 
 The client send messajes to the server and gets an answer from it.
 
